@@ -1,0 +1,85 @@
+<u>Фасовка (грамм): 50, 100, 250</u>
+
+<b>1. Alaska Blue</b>
+<pre>(черника и прохлада)</pre>
+<b>2. Almo Crunch</b>
+<pre>(карамельный торт, миндаль и корица)</pre>
+<b>3. Arctic Line</b>
+<pre>(лайм и ментол)</pre>
+<b>4. Bakatitoo</b>
+<pre>(жевательная резинка и фруктовый лёд)</pre>
+<b>5. Cinderella</b>
+<pre>(лесные ягоды, арбуз, медовая дыня, манго и маракуйя)</pre>
+<b>6. Co Crush</b>
+<pre>(кола и прохлада)</pre>
+<b>7. Le Cak</b>
+<pre>(лимон и ваниль)</pre>
+<b>8. Le Chill</b>
+<pre>(лимон и мята)</pre>
+<b>9. Love Story</b>
+<pre>(маракуйя, арбуз, медовая дыня, клубника и ментол)</pre>
+<b>10. MoHi</b>
+<pre>(мохито)</pre>
+<b>11. Okolom</b>
+<pre>(лимон, бузиновый цветок и прохлада)</pre>
+<b>12. Ringle Rangle</b>
+<pre>(маракуйя, лайм и грейпфрут)</pre>
+<b>13. Robinson Crusoe</b>
+<pre>(манго, маракуйя и ананас)</pre>
+<b>14. Slushy PeaMi</b>
+<pre>(персик и прохлада)</pre>
+<b>15. Slushi WaMe</b>
+<pre>(арбуз и прохлада)</pre>
+<b>16. Tension</b>
+<pre>(арбуз, лимон и сладкий амаретто)</pre>
+<b>17. Tropical Dragon</b>
+<pre>(папайя, маракуйя, питайя и лайм)</pre>
+<b>18. Vampire Nights</b>
+<pre>(кровавый апельсин и грейпфрут)</pre>
+<b>19. Vaya Blue</b>
+<pre>(черника и мята)</pre>
+<b>20. WaMe Chill</b>
+<pre>(арбуз и мята)</pre>
+<b>21. White Fluffy Bear</b>
+<pre>(белый мармелад)</pre>
+<b>22. Wild B Chill</b>
+<pre>(ягоды и прохлада)</pre>
+
+<u>Фасовка (грамм): 50</u>
+
+<b>23. BerryBeris</b>
+<pre>(барбарис)</pre>
+<b>24. Blue X</b>
+<pre>(черника)</pre>
+<b>25. La Mantarina</b>
+<pre>(игристый лимонад, бузина и мандарин)</pre>
+<b>26. Jaffa</b>
+<pre>(апельсин и жасмин)</pre>
+<b>27. Okolom Cranbrry</b>
+<pre>(лимон, лайм, клюква и прохлада)</pre>
+<b>28. Okolom Jo-Jo Barry</b>
+<pre>(бузина, лайм, смородина и прохлада)</pre>
+<b>29. Okorange</b>
+<pre>(лайм, лёд, апельсин)</pre>
+<b>30. Tofahten</b>
+<pre>(яблоко и анис)</pre>
+<b>31. Yellow Chew</b>
+<pre>(дыня, мята и черника)</pre>
+<b>32. Blazing Love</b>
+<pre>(кола, вишня и ваниль)</pre>
+<b>33. Chill Bill</b>
+<pre>(вишня и ментол)</pre>
+<b>34. D.A.F</b>
+<pre>(яблоко и двойное яблоко)</pre>
+<b>35. Daikirri</b>
+<pre>(клубника, киви и лайм)</pre>
+<b>36. Gaza</b>
+<pre>(черника, личи и прохлада)</pre>
+<b>37. O`erro</b>
+<pre>(печенье, молоко и ваниль)</pre>
+<b>38. Red Ice</b>
+<pre>(красные фрукты)</pre>
+<b>39. Ruffy Ello</b>
+<pre>(кокос)</pre>
+<b>40. Ultra Instinct</b>
+<pre>(апельсин, смородина и мята)</pre>
